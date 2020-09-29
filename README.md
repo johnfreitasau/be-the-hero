@@ -1,4 +1,4 @@
-# be-the-hero<h1 align="center">
+<h1 align="center">
   <img src=".github/logo.svg" alt="Be The Hero">
 </h1>
 
@@ -23,7 +23,7 @@
   <a href="#-license">License</a>
 </p>
 
-<img alt="Layout" src="https://res.cloudinary.com/johnfreitasau/image/upload/v1585345367/be-the-hero/mockup_uf7cxb.png">
+<img alt="Layout" src=".github/be-the-hero.png">
 
 ## 🦸‍♀️ About the project
 
@@ -64,6 +64,7 @@ Technologies that I used to develop this api
 - [Axios](https://github.com/axios/axios)
 - [EditorConfig](https://editorconfig.org/)
 
+## 💻 Getting started
 
 ### Requirements
 
