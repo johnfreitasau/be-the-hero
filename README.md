@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Be The Hero - Connect your NGO with people who want to help you.
+  Be The Hero - Connecting everyone to people in need of change.
 </h3>
 <!-- E02041 -->
 <p align="center">
@@ -35,14 +35,6 @@ With this informations and using the mobile client, people can help one or more 
 
 <!-- É visado por meio da interação entre ONG e comunidade: A ampliação da área de atuação da ONG, o aumento da velocidade e eficácia na resolução dos problemas. -->
 The goal of this project is increase the possibility of to help more cases and faster.
-
-<details><summary>Project Layout</summary>
-  <img alt="Cadastro" src="https://res.cloudinary.com/johnfreitasau/image/upload/v1585335838/be-the-hero/Cadastro_g45xr9.png">
-  <img alt="Login" src="https://res.cloudinary.com/johnfreitasau/image/upload/v1585335849/be-the-hero/Login_bhx9xu.png">
-  <img alt="Cadastro de Caso" src="https://res.cloudinary.com/johnfreitasau/image/upload/v1585335831/be-the-hero/Cadastrar_novo_caso_edgbbs.png">
-  <img alt="Lista de Casos" src="https://res.cloudinary.com/johnfreitasau/image/upload/v1585335843/be-the-hero/Lista_iti7gz.png">
-  <img alt="Mobile" src="https://res.cloudinary.com/johnfreitasau/image/upload/v1585335852/be-the-hero/mobile_loaoyj.png">
-</details>
 
 ## 🚀 Technologies
 
@@ -100,6 +92,28 @@ To start the server:
 ```bash
 yarn dev
 ```
+
+#### Migrations
+Update the database:
+```bash
+knex migrate:latest
+```
+
+To rollback all the completed migrations:
+```bash
+knex migrate:rollback
+```
+
+To run the next migration that has not yet been run:
+```bash
+knex migrate:up
+```
+
+To undo the last migration that was run:
+```
+knex migrate:down
+```
+
 
 ### Web
 
