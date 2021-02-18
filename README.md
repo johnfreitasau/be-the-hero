@@ -27,14 +27,15 @@
 
 ## 🦸‍♀️ About the project
 
-<!-- Com essa aplicação, e por meio do front-end web, as ONGs podem informar sobre seus casos, necessidades e o valor necessário para solucionar o problema. -->
+Application developed during the Omnistack week.
+
 Using the web client, the NGOs can create incidents informing about their needs and the amount to solve the incident.
 
-<!-- A partir dessas informações, e por meio do front-end mobile, pessoas comuns, ou seja, toda a sociedade pode contruibir com um determinado caso e ser o herói de dia para aquela ONG. -->
 With this informations and using the mobile client, people can help one or more incidents and be the hero for that NGO.
 
-<!-- É visado por meio da interação entre ONG e comunidade: A ampliação da área de atuação da ONG, o aumento da velocidade e eficácia na resolução dos problemas. -->
 The goal of this project is increase the possibility of to help more cases and faster.
+
+
 
 ## 🚀 Technologies
 
